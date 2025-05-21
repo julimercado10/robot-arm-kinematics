@@ -1,3 +1,4 @@
+
 import { RobotKinematicsViewer } from "@/components/robot-kinematics-viewer"
 import { RobotControls } from "@/components/robot-controls"
 

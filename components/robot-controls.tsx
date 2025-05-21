@@ -80,7 +80,7 @@ export function RobotControls() {
   return (
     <Card className="w-full">
       <CardHeader>
-        <CardTitle>Robot Arm Controls</CardTitle>
+        <CardTitle>Controles del Brazo Robótico</CardTitle>
       </CardHeader>
       <CardContent className="space-y-6">
         <div className="space-y-2">
