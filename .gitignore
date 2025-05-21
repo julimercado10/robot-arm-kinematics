@@ -1,0 +1,12 @@
+# Dependencias
+node_modules/
+
+# Archivos de lock / cache de pnpm
+.pnpm-store/
+
+# Construcciones y salidas
+.next/
+out/
+
+# Variables de entorno
+.env
